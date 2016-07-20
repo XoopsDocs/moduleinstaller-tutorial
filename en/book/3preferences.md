@@ -1,10 +1,3 @@
 # 3.0 Preferences
 
-
-
-![image001.png](en/assets/image001.png)
-
-
-
-
-
+There are no Preferences in this module.

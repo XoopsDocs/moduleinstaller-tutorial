@@ -1,12 +1,19 @@
-# ![](/en/assets/img000064.png)2.0 Administration Menu
+# 2.0 Administration Menu
 
-![image001.png](assets/image001.png)
+![image001.png](/en/assets/image001.png)
 
-# Module ModuleInstaller
+![](/en/assets/img000060.png) 
 
-#### for XOOPS 2.5.7
+ ![](/en/assets/img000061.png) 
 
-![logoModule.png](/en/assets/logoModule.png)
+ ![](/en/assets/img000062.png) 
 
-## User Manual
+ ![](/en/assets/img000063.png) 
 
+ ![](/en/assets/img000064.png) 
+
+ ![](/en/assets/img000065.png) 
+
+ ![](/en/assets/img000066.png) 
+
+ ![](/en/assets/img000067.png) 

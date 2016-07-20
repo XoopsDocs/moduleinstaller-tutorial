@@ -21,6 +21,10 @@ This module is to install, update, and uninstall other XOOPS modules in bulk
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/moduleinstaller))** 
 
+|**Module Development**| **Module Releases** | **Tutorial Development** | **Tutorial Book** | **Translations** | 
+| :---: | :---: | :---: | :---: | :---: | 
+| [GitHub](https://github.com/XoopsModules25x/moduleinstaller) | [GitHub](https://github.com/XOOPS/XoopsModules25x/moduleinstaller/releases) | [GitHub](https://github.com/XoopsDocs/moduleinstaller-tutorial) | [GitBook](https://www.gitbook.com/book/xoops/moduleinstaller-tutorial/) | [Transifex](https://www.transifex.com/xoops/) | 
+
 ## How to Contribute
 
 [You can contribute on GitHub](https://github.com/XoopsDocs/moduleinstaller-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/moduleinstaller-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/moduleinstaller-tutorial) changes.

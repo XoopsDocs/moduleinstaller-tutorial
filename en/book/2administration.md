@@ -34,3 +34,11 @@ You follow the same process, when you want to "Uninstall" any modules: select th
 
 The "About" Tab provides information about the module, incl. the changelog.
 
+ ![](/en/assets/img000068.png) 
+
+And finally the "Help" Tab gives you more info about the module, as well as info about:
+- support
+- link to this tutorial, as well as a link to GitHub where you can contribute to the documentation, as well as to the module itself
+- link to translation sites, where you can contribute translations in your language, and finally, 
+- links to other locations on GitHub, where you can find other Modules and Themes
+

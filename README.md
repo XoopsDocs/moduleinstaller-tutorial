@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+ This module is to install, update, and uninstall other XOOPS modules in bulk 
 
 ![image001.png](en/assets/image001.png)
 *Figure 1: Main view of the ModuleInstaller Module (Admin side)*
@@ -20,6 +20,10 @@ This module is for .....
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/moduleinstaller))** 
+
+|**Module Development**| **Module Releases** | **Tutorial Development** | **Tutorial Book** | **Translations** |
+| :---: | :---: | :---: | :---: | :---: |
+| [GitHub](https://github.com/XoopsModules25x/moduleinstaller) | [GitHub](https://github.com/XOOPS/XoopsModules25x/moduleinstaller/releases) | [GitHub](https://github.com/XoopsDocs/moduleinstaller-tutorial) | [GitBook](https://www.gitbook.com/book/xoops/moduleinstaller-tutorial/) | [Transifex](https://www.transifex.com/xoops/) |
 
 ## How to Contribute
 

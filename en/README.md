@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module is to install, update, and uninstall other XOOPS modules in bulk 
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the ModuleInstaller Module (Admin side)*
